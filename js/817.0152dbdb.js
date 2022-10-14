@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhub_front_v2"]=self["webpackChunkhub_front_v2"]||[]).push([[817],{2817:function(e,n,r){r.r(n),r.d(n,{default:function(){return s}});var u=r(3396);const a={class:"page page--volume-tarif"};function t(e,n,r,t,f,c){return(0,u.wg)(),(0,u.iD)("div",a)}var f={name:"VolumeTarifPage"},c=r(89);const o=(0,c.Z)(f,[["render",t]]);var s=o}}]);
+//# sourceMappingURL=817.0152dbdb.js.map

@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhub_front_v2"]=self["webpackChunkhub_front_v2"]||[]).push([[37],{6037:function(n,e,a){a.r(e),a.d(e,{default:function(){return o}});var r=a(3396);const t={class:"page page--pay"};function u(n,e,a,u,c,s){return(0,r.wg)(),(0,r.iD)("div",t)}var c={name:"PayPage"},s=a(89);const f=(0,s.Z)(c,[["render",u]]);var o=f}}]);
+//# sourceMappingURL=37.5495d848.js.map
