@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; 
+    font-family: Rubik;
+    font-size: 18px;
+    transition: 0.3s;
+}
+
+body {
+    background-color: #F2F3F7;
+}
+
+body.body--landing {
+    background-color: #333647;
+    color: #FFFFFF;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    font-weight: 500;
+}
+
+h1 {
+    font-size: 70px;
+    margin-top: 70px;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+    color: #FFFFFF;
+}
+
+h2 {
+    font-size: 36px;
+    margin-top: 0;
+    margin-bottom: 60px;
+}
+
+h3 {
+    font-size: 24px;
+}
+
+p {
+    margin-bottom: 10px;
+}
+
+a {
+    color: #7E2AEA;
+    font-size: 16px;
+}
+
+.container {
+    max-width: 1200px;
+    padding: 0 20px;
+    margin: 0 auto;
+}
