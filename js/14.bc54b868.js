@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkhub_front_v2"]=self["webpackChunkhub_front_v2"]||[]).push([[14],{8014:function(n,e,a){a.r(e),a.d(e,{default:function(){return o}});var r=a(3396);const t={class:"page page--faq"};function u(n,e,a,u,c,f){return(0,r.wg)(),(0,r.iD)("div",t)}var c={name:"FaqPage"},f=a(89);const s=(0,f.Z)(c,[["render",u]]);var o=s}}]);
+//# sourceMappingURL=14.bc54b868.js.map
